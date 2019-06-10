@@ -1,0 +1,15 @@
+D:\Rashi Shandiliya\interviewsStuff\Xero\Solved.NetExercise\FID.API\FID.API\bin\Debug\netcoreapp2.1\FID.API.xml
+D:\Rashi Shandiliya\interviewsStuff\Xero\Solved.NetExercise\FID.API\FID.API\bin\Debug\netcoreapp2.1\FID.API.deps.json
+D:\Rashi Shandiliya\interviewsStuff\Xero\Solved.NetExercise\FID.API\FID.API\bin\Debug\netcoreapp2.1\FID.API.runtimeconfig.json
+D:\Rashi Shandiliya\interviewsStuff\Xero\Solved.NetExercise\FID.API\FID.API\bin\Debug\netcoreapp2.1\FID.API.runtimeconfig.dev.json
+D:\Rashi Shandiliya\interviewsStuff\Xero\Solved.NetExercise\FID.API\FID.API\bin\Debug\netcoreapp2.1\FID.API.dll
+D:\Rashi Shandiliya\interviewsStuff\Xero\Solved.NetExercise\FID.API\FID.API\bin\Debug\netcoreapp2.1\FID.API.pdb
+D:\Rashi Shandiliya\interviewsStuff\Xero\Solved.NetExercise\FID.API\FID.API\obj\Debug\netcoreapp2.1\FID.API.csprojAssemblyReference.cache
+D:\Rashi Shandiliya\interviewsStuff\Xero\Solved.NetExercise\FID.API\FID.API\obj\Debug\netcoreapp2.1\FID.API.csproj.CoreCompileInputs.cache
+D:\Rashi Shandiliya\interviewsStuff\Xero\Solved.NetExercise\FID.API\FID.API\obj\Debug\netcoreapp2.1\FID.API.RazorAssemblyInfo.cache
+D:\Rashi Shandiliya\interviewsStuff\Xero\Solved.NetExercise\FID.API\FID.API\obj\Debug\netcoreapp2.1\FID.API.RazorAssemblyInfo.cs
+D:\Rashi Shandiliya\interviewsStuff\Xero\Solved.NetExercise\FID.API\FID.API\obj\Debug\netcoreapp2.1\FID.API.AssemblyInfoInputs.cache
+D:\Rashi Shandiliya\interviewsStuff\Xero\Solved.NetExercise\FID.API\FID.API\obj\Debug\netcoreapp2.1\FID.API.AssemblyInfo.cs
+D:\Rashi Shandiliya\interviewsStuff\Xero\Solved.NetExercise\FID.API\FID.API\obj\Debug\netcoreapp2.1\FID.API.RazorTargetAssemblyInfo.cache
+D:\Rashi Shandiliya\interviewsStuff\Xero\Solved.NetExercise\FID.API\FID.API\obj\Debug\netcoreapp2.1\FID.API.dll
+D:\Rashi Shandiliya\interviewsStuff\Xero\Solved.NetExercise\FID.API\FID.API\obj\Debug\netcoreapp2.1\FID.API.pdb

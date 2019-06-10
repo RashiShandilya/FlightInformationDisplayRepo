@@ -1,0 +1,15 @@
+D:\Rashi Shandiliya\interviewsStuff\Xero\Solved.NetExercise\FID.API\FID.FID.AirportTickerBoard\bin\Debug\FID.AirlinesAdmin.exe.config
+D:\Rashi Shandiliya\interviewsStuff\Xero\Solved.NetExercise\FID.API\FID.FID.AirportTickerBoard\bin\Debug\FID.AirlinesAdmin.exe
+D:\Rashi Shandiliya\interviewsStuff\Xero\Solved.NetExercise\FID.API\FID.FID.AirportTickerBoard\bin\Debug\FID.AirlinesAdmin.pdb
+D:\Rashi Shandiliya\interviewsStuff\Xero\Solved.NetExercise\FID.API\FID.FID.AirportTickerBoard\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+D:\Rashi Shandiliya\interviewsStuff\Xero\Solved.NetExercise\FID.API\FID.FID.AirportTickerBoard\bin\Debug\Newtonsoft.Json.dll
+D:\Rashi Shandiliya\interviewsStuff\Xero\Solved.NetExercise\FID.API\FID.FID.AirportTickerBoard\bin\Debug\System.Net.Http.Formatting.dll
+D:\Rashi Shandiliya\interviewsStuff\Xero\Solved.NetExercise\FID.API\FID.FID.AirportTickerBoard\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.pdb
+D:\Rashi Shandiliya\interviewsStuff\Xero\Solved.NetExercise\FID.API\FID.FID.AirportTickerBoard\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+D:\Rashi Shandiliya\interviewsStuff\Xero\Solved.NetExercise\FID.API\FID.FID.AirportTickerBoard\bin\Debug\Newtonsoft.Json.xml
+D:\Rashi Shandiliya\interviewsStuff\Xero\Solved.NetExercise\FID.API\FID.FID.AirportTickerBoard\bin\Debug\System.Net.Http.Formatting.xml
+D:\Rashi Shandiliya\interviewsStuff\Xero\Solved.NetExercise\FID.API\FID.FID.AirportTickerBoard\obj\Debug\FID.AirportTickerBoard.csprojAssemblyReference.cache
+D:\Rashi Shandiliya\interviewsStuff\Xero\Solved.NetExercise\FID.API\FID.FID.AirportTickerBoard\obj\Debug\FID.AirportTickerBoard.csproj.CoreCompileInputs.cache
+D:\Rashi Shandiliya\interviewsStuff\Xero\Solved.NetExercise\FID.API\FID.FID.AirportTickerBoard\obj\Debug\FID.AirportTickerBoard.csproj.CopyComplete
+D:\Rashi Shandiliya\interviewsStuff\Xero\Solved.NetExercise\FID.API\FID.FID.AirportTickerBoard\obj\Debug\FID.AirlinesAdmin.exe
+D:\Rashi Shandiliya\interviewsStuff\Xero\Solved.NetExercise\FID.API\FID.FID.AirportTickerBoard\obj\Debug\FID.AirlinesAdmin.pdb

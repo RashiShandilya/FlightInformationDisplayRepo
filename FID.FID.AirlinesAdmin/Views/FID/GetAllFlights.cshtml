@@ -1,0 +1,68 @@
+﻿@model IEnumerable<FID.AirlinesAdmin.Models.FlightDetail>
+
+@{
+    ViewBag.Title = "Flight Information Display System";
+}
+
+
+<p>
+    @Html.ActionLink("Add New Flight Schedule", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.FlightNumber)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.AirlineName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Destination)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Actual_Departure_Time)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Estimated_Departure_Time)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Scheduled_Departure_Time)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Flight_Status)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.FlightNumber)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.AirlineName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Destination)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Actual_Departure_Time)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Estimated_Departure_Time)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Scheduled_Departure_Time)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Flight_Status)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "EditFlightDetail", new { flightNumber = item.FlightNumber }) |
+            @Html.ActionLink("Delete", "Delete", new { flightNumber = item.FlightNumber })
+        </td>
+    </tr>
+    }
+
+</table> 

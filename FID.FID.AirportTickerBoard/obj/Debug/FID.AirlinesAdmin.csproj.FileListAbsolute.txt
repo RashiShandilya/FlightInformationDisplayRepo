@@ -1,0 +1,12 @@
+C:\Users\Rashi Shandiliya\source\repos\FID.API\FID.AirlinesAdmin\bin\Debug\FID.AirlinesAdmin.exe.config
+C:\Users\Rashi Shandiliya\source\repos\FID.API\FID.AirlinesAdmin\bin\Debug\FID.AirlinesAdmin.exe
+C:\Users\Rashi Shandiliya\source\repos\FID.API\FID.AirlinesAdmin\bin\Debug\FID.AirlinesAdmin.pdb
+C:\Users\Rashi Shandiliya\source\repos\FID.API\FID.AirlinesAdmin\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Rashi Shandiliya\source\repos\FID.API\FID.AirlinesAdmin\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Rashi Shandiliya\source\repos\FID.API\FID.AirlinesAdmin\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Rashi Shandiliya\source\repos\FID.API\FID.AirlinesAdmin\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Rashi Shandiliya\source\repos\FID.API\FID.AirlinesAdmin\obj\Debug\FID.AirlinesAdmin.csprojAssemblyReference.cache
+C:\Users\Rashi Shandiliya\source\repos\FID.API\FID.AirlinesAdmin\obj\Debug\FID.AirlinesAdmin.csproj.CoreCompileInputs.cache
+C:\Users\Rashi Shandiliya\source\repos\FID.API\FID.AirlinesAdmin\obj\Debug\FID.AirlinesAdmin.csproj.CopyComplete
+C:\Users\Rashi Shandiliya\source\repos\FID.API\FID.AirlinesAdmin\obj\Debug\FID.AirlinesAdmin.exe
+C:\Users\Rashi Shandiliya\source\repos\FID.API\FID.AirlinesAdmin\obj\Debug\FID.AirlinesAdmin.pdb

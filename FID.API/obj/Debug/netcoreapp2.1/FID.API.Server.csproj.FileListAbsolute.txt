@@ -1,0 +1,14 @@
+C:\Users\Rashi Shandiliya\source\repos\FID.API\FID.API\bin\Debug\netcoreapp2.1\FID.API.Server.xml
+C:\Users\Rashi Shandiliya\source\repos\FID.API\FID.API\bin\Debug\netcoreapp2.1\FID.API.Server.deps.json
+C:\Users\Rashi Shandiliya\source\repos\FID.API\FID.API\bin\Debug\netcoreapp2.1\FID.API.Server.runtimeconfig.json
+C:\Users\Rashi Shandiliya\source\repos\FID.API\FID.API\bin\Debug\netcoreapp2.1\FID.API.Server.runtimeconfig.dev.json
+C:\Users\Rashi Shandiliya\source\repos\FID.API\FID.API\bin\Debug\netcoreapp2.1\FID.API.Server.dll
+C:\Users\Rashi Shandiliya\source\repos\FID.API\FID.API\bin\Debug\netcoreapp2.1\FID.API.Server.pdb
+C:\Users\Rashi Shandiliya\source\repos\FID.API\FID.API\obj\Debug\netcoreapp2.1\FID.API.Server.csproj.CoreCompileInputs.cache
+C:\Users\Rashi Shandiliya\source\repos\FID.API\FID.API\obj\Debug\netcoreapp2.1\FID.API.Server.RazorAssemblyInfo.cache
+C:\Users\Rashi Shandiliya\source\repos\FID.API\FID.API\obj\Debug\netcoreapp2.1\FID.API.Server.RazorAssemblyInfo.cs
+C:\Users\Rashi Shandiliya\source\repos\FID.API\FID.API\obj\Debug\netcoreapp2.1\FID.API.Server.AssemblyInfoInputs.cache
+C:\Users\Rashi Shandiliya\source\repos\FID.API\FID.API\obj\Debug\netcoreapp2.1\FID.API.Server.AssemblyInfo.cs
+C:\Users\Rashi Shandiliya\source\repos\FID.API\FID.API\obj\Debug\netcoreapp2.1\FID.API.Server.RazorTargetAssemblyInfo.cache
+C:\Users\Rashi Shandiliya\source\repos\FID.API\FID.API\obj\Debug\netcoreapp2.1\FID.API.Server.dll
+C:\Users\Rashi Shandiliya\source\repos\FID.API\FID.API\obj\Debug\netcoreapp2.1\FID.API.Server.pdb
